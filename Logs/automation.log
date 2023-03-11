@@ -1,0 +1,359 @@
+03/10/2023 12:20:46 PM: INFO: ******* homepage title**************
+03/10/2023 12:20:50 PM: INFO: ******** title passed********
+03/10/2023 12:20:54 PM: INFO: ************** login test started ************************
+03/10/2023 12:21:05 PM: INFO: ************** title no matching ************************
+03/10/2023 12:21:49 PM: INFO: ******* homepage title**************
+03/10/2023 12:21:53 PM: INFO: ******** title passed********
+03/10/2023 12:21:56 PM: INFO: ************** login test started ************************
+03/10/2023 12:22:04 PM: INFO: ************** title no matching ************************
+03/10/2023 12:23:13 PM: INFO: ******* homepage title**************
+03/10/2023 12:23:18 PM: INFO: ******** title passed********
+03/10/2023 12:23:21 PM: INFO: ************** login test started ************************
+03/10/2023 12:23:29 PM: INFO: ************** title no matching ************************
+03/10/2023 12:27:58 PM: INFO: ******* homepage title**************
+03/10/2023 12:28:03 PM: INFO: ******** title passed********
+03/10/2023 12:28:06 PM: INFO: ************** login test started ************************
+03/10/2023 12:28:17 PM: INFO: ************** title no matching ************************
+03/10/2023 12:33:45 PM: INFO: ******* homepage title**************
+03/10/2023 12:33:51 PM: INFO: ******** title passed********
+03/10/2023 12:33:54 PM: INFO: ************** login test started ************************
+03/10/2023 12:34:03 PM: INFO: ************** title no matching ************************
+03/10/2023 12:34:45 PM: INFO: ******* homepage title**************
+03/10/2023 12:34:49 PM: INFO: ******** title passed********
+03/10/2023 12:34:53 PM: INFO: ************** login test started ************************
+03/10/2023 12:35:03 PM: INFO: ************** title no matching ************************
+03/10/2023 12:40:25 PM: INFO: ******* homepage title**************
+03/10/2023 12:40:28 PM: INFO: ******** title passed********
+03/10/2023 12:40:31 PM: INFO: ************** login test started ************************
+03/10/2023 12:40:41 PM: INFO: ************** title no matching ************************
+03/10/2023 12:41:40 PM: INFO: ******* homepage title**************
+03/10/2023 12:41:44 PM: INFO: ******** title passed********
+03/10/2023 12:41:47 PM: INFO: ************** login test started ************************
+03/10/2023 12:41:55 PM: INFO: ************** login test passsed ************************
+03/10/2023 12:41:55 PM: INFO: ************** login tests completed ************************
+03/10/2023 06:20:20 PM: INFO: ******* homepage title**************
+03/10/2023 06:20:24 PM: INFO: ******** title passed********
+03/10/2023 06:20:26 PM: INFO: ************** login test started ************************
+03/10/2023 06:20:35 PM: INFO: ************** login test passsed ************************
+03/10/2023 06:20:35 PM: INFO: ************** login tests completed ************************
+03/10/2023 07:04:58 PM: INFO: ******* homepage title**************
+03/10/2023 07:05:02 PM: INFO: ******** title passed********
+03/10/2023 07:05:05 PM: INFO: ************** login test started ************************
+03/10/2023 07:05:10 PM: INFO: ************** login test passsed ************************
+03/10/2023 07:05:10 PM: INFO: ************** login tests completed ************************
+03/10/2023 07:11:26 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:12:08 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:13:16 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:13:25 PM: INFO: ****Login Successful****
+03/10/2023 07:13:25 PM: INFO: ****starting add customer test****
+03/10/2023 07:19:28 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:19:35 PM: INFO: ****Login Successful****
+03/10/2023 07:19:35 PM: INFO: ****starting add customer test****
+03/10/2023 07:25:30 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:25:38 PM: INFO: ****Login Successful****
+03/10/2023 07:25:38 PM: INFO: ****starting add customer test****
+03/10/2023 07:25:41 PM: INFO: *********providing cust info *********
+03/10/2023 07:27:05 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:27:14 PM: INFO: ****Login Successful****
+03/10/2023 07:27:14 PM: INFO: ****starting add customer test****
+03/10/2023 07:27:17 PM: INFO: *********providing cust info *********
+03/10/2023 07:28:31 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:28:41 PM: INFO: ****Login Successful****
+03/10/2023 07:28:41 PM: INFO: ****starting add customer test****
+03/10/2023 07:28:44 PM: INFO: *********providing cust info *********
+03/10/2023 07:30:26 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:30:34 PM: INFO: ****Login Successful****
+03/10/2023 07:30:34 PM: INFO: ****starting add customer test****
+03/10/2023 07:30:37 PM: INFO: *********providing cust info *********
+03/10/2023 07:30:54 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:31:04 PM: INFO: ****Login Successful****
+03/10/2023 07:31:04 PM: INFO: ****starting add customer test****
+03/10/2023 07:31:07 PM: INFO: *********providing cust info *********
+03/10/2023 07:34:10 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:34:19 PM: INFO: ****Login Successful****
+03/10/2023 07:34:19 PM: INFO: ****starting add customer test****
+03/10/2023 07:34:22 PM: INFO: *********providing cust info *********
+03/10/2023 07:35:04 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:35:12 PM: INFO: ****Login Successful****
+03/10/2023 07:35:12 PM: INFO: ****starting add customer test****
+03/10/2023 07:35:15 PM: INFO: *********providing cust info *********
+03/10/2023 07:39:18 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:39:25 PM: INFO: ****Login Successful****
+03/10/2023 07:39:25 PM: INFO: ****starting add customer test****
+03/10/2023 07:39:28 PM: INFO: *********providing cust info *********
+03/10/2023 07:41:06 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:41:14 PM: INFO: ****Login Successful****
+03/10/2023 07:41:14 PM: INFO: ****starting add customer test****
+03/10/2023 07:41:17 PM: INFO: *********providing cust info *********
+03/10/2023 07:41:19 PM: INFO: ********saving cust info ***********
+03/10/2023 07:41:19 PM: INFO: ******** validation started **********
+03/10/2023 07:43:20 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:43:30 PM: INFO: ****Login Successful****
+03/10/2023 07:43:30 PM: INFO: ****starting add customer test****
+03/10/2023 07:43:33 PM: INFO: *********providing cust info *********
+03/10/2023 07:43:34 PM: INFO: ********saving cust info ***********
+03/10/2023 07:43:34 PM: INFO: ******** validation started **********
+03/10/2023 07:43:35 PM: INFO: ***********add customer failed *****
+03/10/2023 07:44:24 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:44:34 PM: INFO: ****Login Successful****
+03/10/2023 07:44:34 PM: INFO: ****starting add customer test****
+03/10/2023 07:44:36 PM: INFO: *********providing cust info *********
+03/10/2023 07:44:38 PM: INFO: ********saving cust info ***********
+03/10/2023 07:44:38 PM: INFO: ******** validation started **********
+03/10/2023 07:44:39 PM: INFO: *********cutomer added **********
+03/10/2023 07:44:39 PM: INFO: **Ending add customer**
+03/10/2023 07:52:01 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:52:10 PM: INFO: ****Login Successful****
+03/10/2023 07:52:10 PM: INFO: ****starting add customer test****
+03/10/2023 07:52:13 PM: INFO: *********providing cust info *********
+03/10/2023 07:52:15 PM: INFO: ********saving cust info ***********
+03/10/2023 07:52:15 PM: INFO: ******** validation started **********
+03/10/2023 07:52:15 PM: INFO: ***********add customer failed *****
+03/10/2023 07:53:12 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:53:20 PM: INFO: ****Login Successful****
+03/10/2023 07:53:20 PM: INFO: ****starting add customer test****
+03/10/2023 07:53:23 PM: INFO: *********providing cust info *********
+03/10/2023 07:53:25 PM: INFO: ********saving cust info ***********
+03/10/2023 07:53:25 PM: INFO: ******** validation started **********
+03/10/2023 07:53:26 PM: INFO: ***********add customer failed *****
+03/10/2023 07:53:56 PM: INFO: ******** Test add customer  ************
+03/10/2023 07:54:03 PM: INFO: ****Login Successful****
+03/10/2023 07:54:03 PM: INFO: ****starting add customer test****
+03/10/2023 07:54:06 PM: INFO: *********providing cust info *********
+03/10/2023 07:54:08 PM: INFO: ********saving cust info ***********
+03/10/2023 07:54:08 PM: INFO: ******** validation started **********
+03/10/2023 07:54:09 PM: INFO: *********cutomer added **********
+03/10/2023 07:54:09 PM: INFO: **Ending add customer**
+03/10/2023 09:58:04 PM: INFO: ******** search customer by email ************
+03/10/2023 09:58:13 PM: INFO: ****Login Successful****
+03/10/2023 09:58:15 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:04:12 PM: INFO: ******** search customer by email ************
+03/10/2023 10:04:21 PM: INFO: ****Login Successful****
+03/10/2023 10:04:23 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:04:42 PM: INFO: ******** search customer by email ************
+03/10/2023 10:04:53 PM: INFO: ****Login Successful****
+03/10/2023 10:04:55 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:06:11 PM: INFO: ******** search customer by email ************
+03/10/2023 10:06:21 PM: INFO: ****Login Successful****
+03/10/2023 10:06:23 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:07:23 PM: INFO: ******** search customer by email ************
+03/10/2023 10:07:35 PM: INFO: ****Login Successful****
+03/10/2023 10:07:37 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:09:57 PM: INFO: ******** search customer by email ************
+03/10/2023 10:10:06 PM: INFO: ****Login Successful****
+03/10/2023 10:10:08 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:11:26 PM: INFO: ******** search customer by email ************
+03/10/2023 10:11:37 PM: INFO: ****Login Successful****
+03/10/2023 10:11:39 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:22:33 PM: INFO: ******** search customer by email ************
+03/10/2023 10:22:42 PM: INFO: ****Login Successful****
+03/10/2023 10:22:44 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:24:21 PM: INFO: ******** search customer by email ************
+03/10/2023 10:24:31 PM: INFO: ****Login Successful****
+03/10/2023 10:24:33 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:27:39 PM: INFO: ******** search customer by email ************
+03/10/2023 10:27:53 PM: INFO: ****Login Successful****
+03/10/2023 10:27:56 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:29:21 PM: INFO: ******** search customer by email ************
+03/10/2023 10:29:31 PM: INFO: ****Login Successful****
+03/10/2023 10:29:33 PM: INFO: ****************searching cust by emailid *************************
+03/10/2023 10:29:44 PM: INFO: ********** search by email finished *******************
+03/11/2023 11:39:33 AM: INFO: ******** search customer by email ************
+03/11/2023 11:39:42 AM: INFO: ****Login Successful****
+03/11/2023 11:39:44 AM: INFO: ****************searching cust by emailid *************************
+03/11/2023 11:39:54 AM: INFO: ********** search by email finished *******************
+03/11/2023 11:40:26 AM: INFO: ******** search customer by email ************
+03/11/2023 11:40:34 AM: INFO: ****Login Successful****
+03/11/2023 11:40:35 AM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:00:06 PM: INFO: ******** search customer by email ************
+03/11/2023 12:00:16 PM: INFO: ****Login Successful****
+03/11/2023 12:00:18 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:01:06 PM: INFO: ******** search customer by email ************
+03/11/2023 12:01:40 PM: INFO: ******** search customer by email ************
+03/11/2023 12:01:50 PM: INFO: ****Login Successful****
+03/11/2023 12:01:52 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:06:07 PM: INFO: ******** search customer by email ************
+03/11/2023 12:06:14 PM: INFO: ****Login Successful****
+03/11/2023 12:06:15 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:09:53 PM: INFO: ******** search customer by email ************
+03/11/2023 12:10:02 PM: INFO: ****Login Successful****
+03/11/2023 12:10:04 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:12:27 PM: INFO: ******** search customer by email ************
+03/11/2023 12:12:36 PM: INFO: ****Login Successful****
+03/11/2023 12:12:38 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:14:13 PM: INFO: ******** search customer by email ************
+03/11/2023 12:14:22 PM: INFO: ****Login Successful****
+03/11/2023 12:14:23 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:15:54 PM: INFO: ******** search customer by email ************
+03/11/2023 12:16:02 PM: INFO: ****Login Successful****
+03/11/2023 12:16:04 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:16:41 PM: INFO: ******** search customer by email ************
+03/11/2023 12:16:49 PM: INFO: ****Login Successful****
+03/11/2023 12:16:51 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:17:01 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:18:26 PM: INFO: ******** search customer by email ************
+03/11/2023 12:18:35 PM: INFO: ****Login Successful****
+03/11/2023 12:18:36 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:18:47 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:25:16 PM: INFO: ******** search customer by email ************
+03/11/2023 12:25:22 PM: INFO: ****Login Successful****
+03/11/2023 12:25:24 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:25:34 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:27:05 PM: INFO: ******** search customer by email ************
+03/11/2023 12:27:16 PM: INFO: ****Login Successful****
+03/11/2023 12:27:17 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:27:28 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:28:50 PM: INFO: ******** search customer by email ************
+03/11/2023 12:29:06 PM: INFO: ****Login Successful****
+03/11/2023 12:29:08 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:29:18 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:29:55 PM: INFO: ******** search customer by email ************
+03/11/2023 12:30:02 PM: INFO: ****Login Successful****
+03/11/2023 12:30:04 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:30:14 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:36:19 PM: INFO: ******** search customer by email ************
+03/11/2023 12:36:28 PM: INFO: ****Login Successful****
+03/11/2023 12:36:30 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:36:40 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:43:45 PM: INFO: ******** search customer by email ************
+03/11/2023 12:43:54 PM: INFO: ****Login Successful****
+03/11/2023 12:43:56 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:45:05 PM: INFO: ******** search customer by email ************
+03/11/2023 12:45:14 PM: INFO: ****Login Successful****
+03/11/2023 12:45:16 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:46:31 PM: INFO: ******** search customer by email ************
+03/11/2023 12:46:39 PM: INFO: ****Login Successful****
+03/11/2023 12:46:40 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:49:06 PM: INFO: ******** search customer by email ************
+03/11/2023 12:49:16 PM: INFO: ****Login Successful****
+03/11/2023 12:49:17 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:52:53 PM: INFO: ******** search customer by email ************
+03/11/2023 12:53:01 PM: INFO: ****Login Successful****
+03/11/2023 12:53:03 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:53:13 PM: INFO: ********** search by email finished *******************
+03/11/2023 12:56:12 PM: INFO: ******** search customer by email ************
+03/11/2023 12:56:20 PM: INFO: ****Login Successful****
+03/11/2023 12:56:22 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:56:59 PM: INFO: ******** search customer by email ************
+03/11/2023 12:57:12 PM: INFO: ****Login Successful****
+03/11/2023 12:57:14 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 12:58:12 PM: INFO: ******** search customer by email ************
+03/11/2023 12:58:22 PM: INFO: ****Login Successful****
+03/11/2023 12:58:24 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:00:22 PM: INFO: ******** search customer by email ************
+03/11/2023 01:00:30 PM: INFO: ****Login Successful****
+03/11/2023 01:00:32 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:01:56 PM: INFO: ******** search customer by email ************
+03/11/2023 01:02:06 PM: INFO: ****Login Successful****
+03/11/2023 01:02:08 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:02:52 PM: INFO: ******** search customer by email ************
+03/11/2023 01:03:02 PM: INFO: ****Login Successful****
+03/11/2023 01:03:04 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:06:35 PM: INFO: ******** search customer by email ************
+03/11/2023 01:06:42 PM: INFO: ****Login Successful****
+03/11/2023 01:06:44 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:08:14 PM: INFO: ******** search customer by email ************
+03/11/2023 01:08:23 PM: INFO: ****Login Successful****
+03/11/2023 01:08:25 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:10:01 PM: INFO: ******** search customer by email ************
+03/11/2023 01:10:11 PM: INFO: ****Login Successful****
+03/11/2023 01:10:12 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:14:01 PM: INFO: ******** search customer by email ************
+03/11/2023 01:14:10 PM: INFO: ****Login Successful****
+03/11/2023 01:14:11 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:15:19 PM: INFO: ******** search customer by email ************
+03/11/2023 01:15:28 PM: INFO: ****Login Successful****
+03/11/2023 01:15:30 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:19:03 PM: INFO: ******** search customer by email ************
+03/11/2023 01:19:13 PM: INFO: ****Login Successful****
+03/11/2023 01:19:14 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:21:19 PM: INFO: ******** search customer by email ************
+03/11/2023 01:21:28 PM: INFO: ****Login Successful****
+03/11/2023 01:21:29 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:23:37 PM: INFO: ******** search customer by email ************
+03/11/2023 01:23:43 PM: INFO: ****Login Successful****
+03/11/2023 01:23:44 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:27:30 PM: INFO: ******** search customer by email ************
+03/11/2023 01:27:38 PM: INFO: ****Login Successful****
+03/11/2023 01:27:40 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:32:24 PM: INFO: ******** search customer by email ************
+03/11/2023 01:32:32 PM: INFO: ****Login Successful****
+03/11/2023 01:32:35 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:34:43 PM: INFO: ******** search customer by email ************
+03/11/2023 01:34:54 PM: INFO: ****Login Successful****
+03/11/2023 01:34:55 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:36:36 PM: INFO: ******** search customer by email ************
+03/11/2023 01:36:45 PM: INFO: ****Login Successful****
+03/11/2023 01:36:46 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:38:49 PM: INFO: ******** search customer by email ************
+03/11/2023 01:39:00 PM: INFO: ****Login Successful****
+03/11/2023 01:39:02 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:39:44 PM: INFO: ******** search customer by email ************
+03/11/2023 01:40:13 PM: INFO: ******** search customer by email ************
+03/11/2023 01:40:23 PM: INFO: ****Login Successful****
+03/11/2023 01:40:24 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:40:34 PM: INFO: ********** search by email finished *******************
+03/11/2023 01:42:39 PM: INFO: ******** search customer by email ************
+03/11/2023 01:42:49 PM: INFO: ****Login Successful****
+03/11/2023 01:42:50 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 01:43:01 PM: INFO: ********** search by email finished *******************
+03/11/2023 07:24:10 PM: INFO: ******* homepage title**************
+03/11/2023 07:24:10 PM: INFO: ******* homepage title**************
+03/11/2023 07:24:10 PM: INFO: ******* homepage title**************
+03/11/2023 07:24:15 PM: INFO: ******** title passed********
+03/11/2023 07:24:15 PM: INFO: ******** title passed********
+03/11/2023 07:24:15 PM: INFO: ******** title passed********
+03/11/2023 07:24:18 PM: INFO: ************** login test started ************************
+03/11/2023 07:24:18 PM: INFO: ************** login test started ************************
+03/11/2023 07:24:18 PM: INFO: ************** login test started ************************
+03/11/2023 07:24:26 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:24:26 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:24:26 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:24:26 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:24:26 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:24:26 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:24:29 PM: INFO: ******** Test add customer  ************
+03/11/2023 07:24:29 PM: INFO: ******** Test add customer  ************
+03/11/2023 07:24:29 PM: INFO: ******** Test add customer  ************
+03/11/2023 07:24:38 PM: INFO: ****Login Successful****
+03/11/2023 07:24:38 PM: INFO: ****Login Successful****
+03/11/2023 07:24:38 PM: INFO: ****Login Successful****
+03/11/2023 07:24:38 PM: INFO: ****starting add customer test****
+03/11/2023 07:24:38 PM: INFO: ****starting add customer test****
+03/11/2023 07:24:38 PM: INFO: ****starting add customer test****
+03/11/2023 07:24:42 PM: INFO: *********providing cust info *********
+03/11/2023 07:24:42 PM: INFO: *********providing cust info *********
+03/11/2023 07:24:42 PM: INFO: *********providing cust info *********
+03/11/2023 07:24:45 PM: INFO: ********saving cust info ***********
+03/11/2023 07:24:45 PM: INFO: ********saving cust info ***********
+03/11/2023 07:24:45 PM: INFO: ********saving cust info ***********
+03/11/2023 07:24:45 PM: INFO: ******** validation started **********
+03/11/2023 07:24:45 PM: INFO: ******** validation started **********
+03/11/2023 07:24:45 PM: INFO: ******** validation started **********
+03/11/2023 07:24:45 PM: INFO: *********cutomer added **********
+03/11/2023 07:24:45 PM: INFO: *********cutomer added **********
+03/11/2023 07:24:45 PM: INFO: *********cutomer added **********
+03/11/2023 07:24:45 PM: INFO: **Ending add customer**
+03/11/2023 07:24:45 PM: INFO: **Ending add customer**
+03/11/2023 07:24:45 PM: INFO: **Ending add customer**
+03/11/2023 07:28:29 PM: INFO: ************** login test started ************************
+03/11/2023 07:28:29 PM: INFO: ************** login test started ************************
+03/11/2023 07:28:29 PM: INFO: ************** login test started ************************
+03/11/2023 07:28:36 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:28:36 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:28:36 PM: INFO: ************** login test passsed ************************
+03/11/2023 07:28:37 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:28:37 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:28:37 PM: INFO: ************** login tests completed ************************
+03/11/2023 07:28:39 PM: INFO: ******** search customer by email ************
+03/11/2023 07:28:39 PM: INFO: ******** search customer by email ************
+03/11/2023 07:28:39 PM: INFO: ******** search customer by email ************
+03/11/2023 07:28:49 PM: INFO: ****Login Successful****
+03/11/2023 07:28:49 PM: INFO: ****Login Successful****
+03/11/2023 07:28:49 PM: INFO: ****Login Successful****
+03/11/2023 07:28:51 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 07:28:51 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 07:28:51 PM: INFO: ****************searching cust by emailid *************************
+03/11/2023 07:29:01 PM: INFO: ********** search by email finished *******************
+03/11/2023 07:29:01 PM: INFO: ********** search by email finished *******************
+03/11/2023 07:29:01 PM: INFO: ********** search by email finished *******************
