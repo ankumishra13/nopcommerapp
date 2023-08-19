@@ -253,7 +253,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 19-Aug-2023 at 13:19:27 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
+    <p>Report generated on 11-Mar-2023 at 19:29:01 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.2.0</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -264,10 +264,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>{"pluggy": "1.0.0", "pytest": "7.2.1"}</td></tr>
       <tr>
         <td>Platform</td>
-        <td>Windows-10-10.0.19045-SP0</td></tr>
-      <tr>
-        <td>Plugins</td>
-        <td>{"allure-pytest": "2.13.0", "failed-screenshot": "1.0.2", "html": "3.2.0", "metadata": "2.0.4", "xdist": "3.2.0"}</td></tr>
+        <td>Windows-10-10.0.19044-SP0</td></tr>
       <tr>
         <td>Poject Name</td>
         <td>nop Commerce</td></tr>
@@ -278,7 +275,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Ankit</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 19.54 seconds. </p>
+    <p>2 tests ran in 35.33 seconds. </p>
     <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
@@ -293,21 +290,27 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
-          <td class="col-name">Test_login.py::Test_1_login::test_homepagetitle</td>
-          <td class="col-duration">8.45</td>
-          <td class="col-links"></td></tr>
-        <tr>
-          <td class="extra" colspan="4">
-            <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_login.py:15 ******* homepage title**************
-INFO     root:Test_login.py:22 ******** title passed********<br/></div></td></tr></tbody>
-      <tbody class="passed results-table-row">
-        <tr>
-          <td class="col-result">Passed</td>
           <td class="col-name">Test_login.py::Test_1_login::test_login</td>
-          <td class="col-duration">10.99</td>
+          <td class="col-duration">10.54</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
             <div class="log"> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_login.py:31 ************** login test started ************************
 INFO     root:Test_login.py:41 ************** login test passsed ************************
-INFO     root:Test_login.py:48 ************** login tests completed ************************<br/></div></td></tr></tbody></table></body></html>
+INFO     root:Test_login.py:48 ************** login tests completed ************************<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">Test_searchcustbyemail.py::Test_searchcustbyemail::test_searchcustemail</td>
+          <td class="col-duration">24.63</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> ------------------------------Captured stdout call------------------------------ <br/>getting row
+1
+//table[@id=&#x27;customers-grid&#x27;]/tbody/tr[1]/td[2]
+True
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:Test_searchcustbyemail.py:19 ******** search customer by email ************
+INFO     root:Test_searchcustbyemail.py:28 ****Login Successful****
+INFO     root:Test_searchcustbyemail.py:34 ****************searching cust by emailid *************************
+INFO     root:Test_searchcustbyemail.py:44 ********** search by email finished *******************<br/></div></td></tr></tbody></table></body></html>
