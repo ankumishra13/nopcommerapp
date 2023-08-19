@@ -9,13 +9,13 @@ def setup():
 
 
 ##################### pytest html report
-def pytest_configure(config):
-    config._metadata['Poject Name'] = 'nop Commerce'
-    config._metadata['Module Name'] = 'Customer'
-    config._metadata['Tester'] = 'Ankit'
+# def pytest_configure(config):
+#     config._metadata['Poject Name'] = 'nop Commerce'
+#     config._metadata['Module Name'] = 'Customer'
+#     config._metadata['Tester'] = 'Ankit'
 
 @pytest.mark.optionalhook
-def config_metadata(metadata):
+def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME",None)
     metadata.pop("Plugins",None)
 
