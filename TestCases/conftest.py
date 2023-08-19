@@ -15,7 +15,7 @@ def pytest_configure(config):
     config._metadata['Tester'] = 'Ankit'
 
 @pytest.mark.optionalhook
-def pytest_metadata(metadata):
+def config_metadata(metadata):
     metadata.pop("JAVA_HOME",None)
     metadata.pop("Plugins",None)
 
