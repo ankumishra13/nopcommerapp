@@ -17,14 +17,20 @@ pipeline {
                 powershell 'echo "Omkar"'
                 // powershell 'pytest -v --html=Reports/report.html TestCases/Test_login.py'
                 
-                publishHTML (target : [allowMissing: false,
+               
+            }
+        }
+		stage
+		{
+			steps{
+				publishHTML (target : [allowMissing: false,
                     alwaysLinkToLastBuild: true,
                     keepAll: true,
                     reportDir: 'Reports',
                     reportFiles: 'report.html',
                     reportName: 'My Reports',
                     reportTitles: 'The Report'])
-            }
-        }
+					}
+		}
     }
 }
