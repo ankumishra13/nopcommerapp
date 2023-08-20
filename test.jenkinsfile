@@ -12,11 +12,7 @@ pipeline {
         {
             steps{
                 bat script: 'pytest -v --html=Reports/report.html TestCases/Test_login.py'
-                echo "Hello from Build stage"
-                powershell 'pwd'
-                powershell 'echo "Omkar"'
-                // powershell 'pytest -v --html=Reports/report.html TestCases/Test_login.py'
-                
+                            
                
             }
         }
