@@ -2,12 +2,12 @@ pipeline {
     agent any
 
     stages {
-        stage('Get Source code') {
-            steps {
-                git 'https://github.com/ankumishra13/nopcommerapp.git'
-                echo 'Hello World'
-            }
-        }
+        //stage('Get Source code') {
+         //   steps {
+         //       git 'https://github.com/ankumishra13/nopcommerapp.git'
+         //       echo 'Hello World'
+          //  }
+        //}
         stage('Build code and run test')
         {
             steps{
