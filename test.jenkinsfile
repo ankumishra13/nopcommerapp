@@ -20,7 +20,7 @@ pipeline {
                
             }
         }
-		stage
+		stage('Publish html report')
 		{
 			steps{
 				publishHTML (target : [allowMissing: false,
