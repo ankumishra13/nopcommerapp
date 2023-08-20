@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     stages {
-        //stage('Get Source code') {
-         //   steps {
+        //stage('Get Source code') {      //No need of this stage as jenkins fetch the code automatically
+         //   steps {					// this code will fetch the project from git 
          //       git 'https://github.com/ankumishra13/nopcommerapp.git'
          //       echo 'Hello World'
           //  }
